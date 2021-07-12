@@ -1,2 +1,2 @@
-# react-boilerplate
-react boilerplate 2021
+# boilerplate 2021
+boilerplate 2021
