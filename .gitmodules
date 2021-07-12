@@ -4,3 +4,6 @@
 [submodule "src/apis/node-api-boilerplate"]
 	path = src/apis/node-api-boilerplate
 	url = https://github.com/dongnguyenv/node-api-boilerplate.git
+[submodule "src/apps/angular-boilerplate"]
+	path = src/apps/angular-boilerplate
+	url = https://github.com/dongnguyenv/angular-boilerplate.git
