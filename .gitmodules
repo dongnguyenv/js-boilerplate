@@ -1,0 +1,6 @@
+[submodule "src/apps/react-boilerplate"]
+	path = src/apps/react-boilerplate
+	url = https://github.com/dongnguyenv/react-boilerplate.git
+[submodule "src/apis/node-api-boilerplate"]
+	path = src/apis/node-api-boilerplate
+	url = https://github.com/dongnguyenv/node-api-boilerplate.git
